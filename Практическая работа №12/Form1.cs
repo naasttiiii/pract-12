@@ -29,6 +29,7 @@ namespace Практическая_работа__12
 
         Zadanie zadanie = new Zadanie();
 
+        //Кнопка найти
         private void btnFind_Click(object sender, EventArgs e)
         {
             try
